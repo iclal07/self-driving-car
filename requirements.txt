@@ -1,0 +1,11 @@
+gym[box2d]
+stable-baselines3[extra]
+tensorflow
+torch
+torchvision
+torchaudio
+opencv-python-headless
+scikit-image
+pandas
+matplotlib
+optuna
